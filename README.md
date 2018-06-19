@@ -1,5 +1,5 @@
 # MergeTest
 
-This change is a pull request test
+Making a change for testing.
 
-[crhairr]: Secondary commit from a different developer on the same branch.
+Secondary changes for testing.
