@@ -1,3 +1,3 @@
 # MergeTest
 
-Back to basics.
+Small change for demo.
