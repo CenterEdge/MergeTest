@@ -1,3 +1,5 @@
 # MergeTest
 
-Back to basics.
+Small change for demo.
+
+Another line for testing.
