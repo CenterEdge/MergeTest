@@ -1,7 +1,3 @@
 # MergeTest
 
-Small change for demo.
-
-Another line for testing.
-
-A small change.
+STAGE-2878: Adding a line to test CI/CD pipeline.
